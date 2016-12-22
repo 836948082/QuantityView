@@ -3,7 +3,8 @@
 
 https://github.com/himanshu-soni/QuantityView
 
-![Old Menu Buttons](https://github.com/836948082/BoomMenu/blob/master/image/old_action_bar_menu.png)
+![screen_1](https://github.com/836948082/QuantityView/blob/0d31dad8a12e383585c7ad95a60fd89492bfe4c5/image/screen_1.png)
+![screen_2](https://github.com/836948082/QuantityView/blob/0d31dad8a12e383585c7ad95a60fd89492bfe4c5/image/screen_2.png)
 
 <com.runtai.quantityviewlibrary.QuantityView
     android:id="@+id/quantityView_custom_1"
