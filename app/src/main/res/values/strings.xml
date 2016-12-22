@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">QuantityView</string>
+    <string name="app_name">携带加减控件(QuantityView)</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
