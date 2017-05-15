@@ -156,6 +156,11 @@ public class QuantityView extends LinearLayout implements View.OnClickListener {
     public void setQuantityClickListener(OnClickListener ocl) {
         mTextViewClickListener = ocl;
     }
+    
+    public void setQuantityTextSize(int size)
+    {
+        mTextViewQuantity.setTextSize(size);
+    }
 
     @Override
     public void onClick(View v) {
